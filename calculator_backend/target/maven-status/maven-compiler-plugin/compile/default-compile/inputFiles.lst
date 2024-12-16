@@ -1,0 +1,8 @@
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/CalculatorApplication.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/entity/CalculatorRecord.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/exception/CalculatorException.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/repository/CalculatorHistoryRepository.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/rest/CalculatorController.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/resultDto/ResultDto.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/service/CalculatorService.java
+/Users/ariannasalvini/Desktop/calculator/calculator_backend/src/main/java/com/example/calculator/service/HistoryService.java
